@@ -16,3 +16,9 @@ landing.local
 activity.local
 
 activity.local не должен быть прописан на localhost !!!
+
+Назначить права 777 на папки 
+/landing/runtime
+/landing/web/asset
+/activity/runtime
+/activity/web/asset
